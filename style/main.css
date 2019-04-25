@@ -329,39 +329,48 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
+    background:URL(https://goo.gl/yBGQ6C);
+    background-size: cover;
+    background-position-x: center;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
+    background: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxITEhUTEhAQFRUX…M654XaFOuv5hsv1FyD7jyhCSrHM0TL1RshEhMq4jWmoTW6CY0IQCEIQCEIQAwhCApjlaEIH//Z);
+    background-size: cover;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
-    background: #f2b179; }
+   background: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEhUTExMVFRUX…Kk/vD3jcWDr3j4Dh4+yCCkHGGBA3IjUQQQZs1E06qjQQDLqqZdVQQTMg1U054O8Sgggq//2Q==);
+    background-size: cover;
+    background-position-x: center;
+    color: rgb(0,0,0,0);
   .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
-    background: #f59563; }
+    background: url(http://i.imgur.com/H0azm.jpg);
+    background-size: cover;
+    background-position-x: center;
+    color: rgb(0,0,0,0);
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
+    background: url(http://i2.disp.cc/imgur7/RlXjR.jpg);
+    background-size: cover;
+    background-position-x: center;
+    color: rgb(0,0,0,0);
   .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
+  background: url(https://vignette.wikia.nocookie.net/hunterxhunter/images/8/8d/%E6%8B%BF%E5%B0%BC%E5%8A%A02011.png/revision/latest?cb=20160324155623&path-prefix=zh);
+    background-size: cover;
+    background-position-x: center;
+    color: rgb(0,0,0,0);
+}
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
-    background: #edcf72;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
-    font-size: 45px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-128 .tile-inner {
-        font-size: 25px; } }
+    background: url(https://vignette.wikia.nocookie.net/hunterxhunter/images/8/8d/%E6%8B%BF%E5%B0%BC%E5%8A%A02011.png/revision/latest?cb=20160324155623&path-prefix=zh);
+    background-size: cover;
+    background-position-x: center;
+    color: rgb(0,0,0,0);
+}
   .tile.tile-256 .tile-inner {
-    color: #f9f6f2;
-    background: #edcc61;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
-    font-size: 45px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-256 .tile-inner {
-        font-size: 25px; } }
+   background: url(https://i.ytimg.com/vi/umS-ZvJUFpU/maxresdefault.jpg);
+    background-size: cover;
+    background-position-x: center;
+    color: rgb(0,0,0,0);
   .tile.tile-512 .tile-inner {
     color: #f9f6f2;
     background: #edc850;
